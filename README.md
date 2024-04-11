@@ -1,3 +1,13 @@
+# Epsilon V4
+
+Stack technique :
+
+-   Basé sur Nuxt UI PRO (cf ci-dessous)
+-   lui-même basé sur Nuxt, Framework JS [nuxt](https://nuxt.com/docs/getting-started/ "Nuxt")
+-   lui-même basé sur VueJS, Librairie JS [vueJS](https://fr.vuejs.org/tutorial/#step-1 "VueJS")
+
+Forké à partir de nuxt-uipro saas template
+
 ![nuxt-ui-saas-social-card](https://github.com/nuxt-ui-pro/saas/assets/739984/50bf4ddd-c4d5-47e5-a09e-0f699513dfb5)
 
 # Nuxt UI Pro - SaaS template
